@@ -40,7 +40,7 @@ class Player(Camera):
             self.move_right(vel)
         if key_state[pg.K_a]:
             self.move_left(vel)
-        if key_state[pg.K_SPACE]:
+        if key_state[pg.K_q]:
             self.move_up(vel)
-        if key_state[pg.KMOD_CTRL]:
+        if key_state[pg.K_e]:
             self.move_down(vel)

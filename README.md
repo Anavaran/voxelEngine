@@ -1,1 +1,6 @@
-Creating a voxel 3D engine like the one used by Minecraft and experimenting with python and libraries such as ModernGL, Pygame, Numba, PyGLM... 
+# Minecraft
+Voxel Engine (like Minecraft) in Python and OpenGL 
+
+Control: WASDQE + mouse
+
+![minecraft](/screenshot/0.jpg)
